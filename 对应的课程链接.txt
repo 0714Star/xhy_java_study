@@ -1,3 +1,0 @@
-SQL£ºhttps://www.bilibili.com/video/BV1iq4y1u7vj/?p=1&vd_source=82e8ddac91e817a065386f9c2dc844b7
-Java: https://www.bilibili.com/video/BV1PY411e7J6/?p=1&vd_source=208c9153046ea55a2245a80ca7975c11
-JDBC:https://www.bilibili.com/video/BV1sK411B71e/?spm_id_from=333.337.search-card.all.click&vd_source=82e8ddac91e817a065386f9c2dc844b7
